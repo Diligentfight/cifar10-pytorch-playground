@@ -8,3 +8,14 @@ You can play with cifar10 by change models and modify hyper-parameters
 3. Have initial weights in every models
 4. From .ipynb import classes and define
 5. From main you can learn how to change lr by steps
+
+## ToDo:
+- [x] Main file to train model 
+- [x] Progress bar and get mean and var
+- [x] VGGNet
+- [x] GoogleNet
+- [x] ResNet(PreAct)
+- [] Densenet
+- [] MobileNet
+- [] Dpn
+- [] Visulialize(train data and net)
