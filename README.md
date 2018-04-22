@@ -15,7 +15,7 @@ You can play with cifar10 by change models and modify hyper-parameters
 - [x] VGGNet
 - [x] GoogleNet
 - [x] ResNet(PreAct)
-- [] Densenet
-- [] MobileNet
-- [] Dpn
-- [] Visulialize(train data and net)
+- [ ] Densenet
+- [ ] MobileNet
+- [ ] Dpn
+- [ ] Visulialize(train data and net)
